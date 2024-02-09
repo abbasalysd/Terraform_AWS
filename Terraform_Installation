@@ -9,3 +9,4 @@ sudo yum -y install terraform
 
 4. Version
 terraform --version
+
