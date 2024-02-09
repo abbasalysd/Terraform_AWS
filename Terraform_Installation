@@ -1,3 +1,5 @@
+##**Installing Terraform in Amazon linux machine**##
+
 1.Install yum-config-manager to manage your repositories.
 sudo yum install -y yum-utils
 
